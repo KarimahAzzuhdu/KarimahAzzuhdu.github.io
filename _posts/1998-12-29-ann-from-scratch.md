@@ -2,7 +2,7 @@
 layout: post
 title:  "ANN from Scratch"
 date:   1998-12-29
-excerpt: "Program prediksi "Survive or Death" pada Insiden Titanic dengan menggunakan Artificial Neural Network (ANN) sederhana."
+excerpt: "Program prediksi pada Insiden Titanic dengan menggunakan Artificial Neural Network (ANN) sederhana."
 project: true
 tag:
 - titanic
