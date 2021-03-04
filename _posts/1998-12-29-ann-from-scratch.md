@@ -1,10 +1,11 @@
 ---
 layout: post
 title:  "ANN from Scratch"
-date:   2021-03-04
+date:   1998-12-29
 excerpt: "Program prediksi "Survive or Death" pada Insiden Titanic dengan menggunakan Artificial Neural Network (ANN) sederhana."
 project: true
-tag: [Titanic, Prediction, Machine Learning, ANN, Tugas Kuliah]
+tag:
+- titanic
 comments: true
 ---
 
