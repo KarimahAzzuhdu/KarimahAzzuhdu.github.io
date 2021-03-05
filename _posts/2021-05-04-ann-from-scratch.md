@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "ANN from Scratch"
-date:   1998-12-29
+date:   2021-05-04
 excerpt: "Program prediksi pada Insiden Titanic dengan menggunakan Artificial Neural Network (ANN) sederhana."
 project: true
 tag:
