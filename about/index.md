@@ -2,13 +2,15 @@
 layout: page
 title: About Me
 tags: [about, me]
-date: 2016-03-21
+date: 2024-08-16
 comments: false
 ---
     
 <center>Hello, My name is Karimah Azzuhdu Toriqoh Mahmudah. You can call me Karimah or Kaka.</center>
 
-<p>I am final year student of Computer Science as Universitas Padjadjaran. I put my interest on Data Science, Business, Home Architecture, Movies, Games, and Books. I am currently doing an internship at an IT Company in Bandung while trying to finish my thesis.</p>
+<p>I just finished my Computer Science education at Padjadjaran University with a thesis on image classification with deep learning. My interests are Data Science, Business, Coffee, and Games. Outside my formal education, I have taken several training courses related to data science. I am currently studying Digital Marketing to start a coffee business. In the future, I want to learn how to make a game.</p>
+<br>
+<p>For more information about me, you can check <a href="https://karimahazzuhdu.github.io/resume/">my resume</a>.</p>
 
 <!-- ## My Work Experience
 ##### September 2020 - IT Support Partime
@@ -20,5 +22,3 @@ comments: false
 ## My Other Experience
 
 ## Contact me -->
-
-# **Lanjut Nanti lagi**
